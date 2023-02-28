@@ -37,4 +37,6 @@ router.post(
   addPatient
 );
 
+// TODO: falta el update y el delete
+
 module.exports = router;

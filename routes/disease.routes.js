@@ -34,4 +34,6 @@ router.post(
   addDisease
 );
 
+// TODO: falata el update y el delete
+
 module.exports = router;

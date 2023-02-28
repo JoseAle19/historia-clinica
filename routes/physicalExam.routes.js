@@ -39,5 +39,6 @@ router.post(
   ],
   adddPhysicalExam
 );
+// TODO: falta el update y el delete
 
 module.exports = router;

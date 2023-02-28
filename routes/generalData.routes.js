@@ -29,4 +29,7 @@ router.post("/add", [
     validationFields    
 ],addGeneralDataPatient);
 
+
+// TODO: falta el update y el delete
+
 module.exports = router;

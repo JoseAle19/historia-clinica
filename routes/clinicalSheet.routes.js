@@ -44,5 +44,6 @@ router.post(
   ],
   addClinicalSheet
 );
+// TODO: falata el update y el delete
 
 module.exports = router;

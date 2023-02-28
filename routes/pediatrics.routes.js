@@ -24,4 +24,7 @@ check("birth", 'Este campo es requerido').not().isEmpty(),
 check("vaccines", 'Este campo es requerido').not().isEmpty(),
 ], addPediatrics)
 
+
+// TODO: falata el update y el delete
+
 module.exports = router;
